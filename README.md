@@ -130,6 +130,5 @@ We audited v1 for leakage (see Challenges), planned a `src/` architecture, and r
 ## Limitations and next steps
 - The metric is assumed to be RMSE; confirm against the competition page.
 - No hyper-parameter search beyond a hand-picked tuned configuration; no stacking/blending.
-- LightGBM, XGBoost and CatBoost may squeeze out a little more, but only after approval to add them.
 - Iteration on feature engineering is unlikely to help; more promising would be understanding the noise in the target (for example, any structure in the 74 negative yields).
 - Housing and feed imputation could be revisited if new columns correlating with them become available.
