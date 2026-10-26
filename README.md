@@ -10,7 +10,7 @@ Predict the daily milk yield (`Milk_Yield_L`) of individual dairy cattle from br
 | Jack |
 | Issay |
 
-The first version of the project (`ML-project.ipynb`) was written by the team. The refactor into `src/`, the leakage-safe pipeline, the re-test of every experiment and `ML-project-v2.ipynb` were done with Claude Code (an AI coding assistant) following an Explore -> Plan -> Code workflow.
+The first version of the project (`ML-project.ipynb`) was written by the team. The refactor into `src/`, the leakage-safe pipeline, the re-test of every experiment and `ML-project-v2.ipynb` were done with following an Explore -> Plan -> Code workflow.
 
 ## At a glance
 - **Problem type: tabular regression** (not classification, not time-series; evidence below).
